@@ -1,0 +1,14 @@
+Part 1:
+Make a fetch request to the json file I shared in Slack.
+Console.log the JSON inside it.-OKAY
+
+Part 2:
+console.log only people that have pets.
+You will have to filter the array (remember to look at the notes from week 2 and use
+the MDN docs to figure it out, too).
+
+Part 3:
+Display every person in your HTML
+
+Part 4 (stretch):
+Make a button that will change your HTML to only show the people with pets
